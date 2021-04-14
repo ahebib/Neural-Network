@@ -1,4 +1,4 @@
-Neural_Network
+Neural-Network
 ==============
 
 Neural Network programmed in Python.
